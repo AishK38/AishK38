@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aishwarya Karmakar
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
 - 📫 How to reach me - Email me at 00.aishwaryak.0103@gmail.com
 
 <!---
